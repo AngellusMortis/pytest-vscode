@@ -1,0 +1,11 @@
+{
+    "python.testing.cwd": ".",
+    "python.testing.promptToConfigure": false,
+    "python.testing.pyTestArgs": [
+        "--color",
+        "no",
+        ".",
+        "../project1"
+    ],
+    "python.testing.pyTestEnabled": true,
+}
